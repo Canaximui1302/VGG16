@@ -6,11 +6,11 @@ To train the model:
 > python3 VGG16.py
 
 * For Windows PowerShell:
-> py VGG16.py
+> python VGG16.py
 
 To use the trained model:
 * For Linux & MacOS:
 > python3 test.py
 
 * For Windows PowerShell:
-> py test.py
+> python test.py
